@@ -1,4 +1,4 @@
-# i3 gruvbox orange rice
+# i3 Black and White Rice
 <img width="3840" height="1079" alt="2025-11-15_21-31" src="https://github.com/user-attachments/assets/396b601f-1c1f-40bb-a2fd-b499722d048c" />
 <img width="3840" height="1079" alt="2025-11-15_21-33" src="https://github.com/user-attachments/assets/43b0ec2b-8c70-4300-9bbc-434b2f843030" />
 
@@ -18,11 +18,7 @@ I recommend watching a video on using i3 or ready some other documentation on th
 If your using a wired internet connection then you're going to want to uncomment the ETH portion of the polybar config file.
 
 
-### NEOVIM THEME = https://github.com/morhetz/gruvbox
-
-gruvbox is pretty popular so theres lots of themes that look the exact same. 
-
-https://www.figma.com/community/file/840895380520234275/gruvbox-syntax-highlighting containes information on the colors used for gruvbox
+### NEOVIM THEME = https://github.com/morhetz/gruvbox](https://github.com/kdheepak/monochrome.nvim
 
 You will need to install vim plug. To do this run 
 ```
