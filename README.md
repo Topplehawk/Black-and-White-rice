@@ -19,7 +19,7 @@ I recommend watching a video on using i3 or ready some other documentation on th
 If your using a wired internet connection then you're going to want to uncomment the ETH portion of the polybar config file.
 
 
-### NEOVIM THEME = https://github.com/morhetz/gruvbox](https://github.com/kdheepak/monochrome.nvim
+### NEOVIM THEME = https://github.com/kdheepak/monochrome.nvim
 
 You will need to install vim plug. To do this run 
 ```
