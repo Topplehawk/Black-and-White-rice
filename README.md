@@ -1,7 +1,7 @@
 # i3 Black and White Rice
-<img width="3840" height="1079" alt="2025-11-15_21-31" src="https://github.com/user-attachments/assets/396b601f-1c1f-40bb-a2fd-b499722d048c" />
 
 <img width="3840" height="1079" alt="2025-11-15_21-33" src="https://github.com/user-attachments/assets/43b0ec2b-8c70-4300-9bbc-434b2f843030" />
+<img width="3840" height="1079" alt="2025-11-16_19-54" src="https://github.com/user-attachments/assets/3f8dffa4-649c-4c3d-9955-e1abb9d86ea7" />
 
 
 ### STARTING AND BEFORE RICING
